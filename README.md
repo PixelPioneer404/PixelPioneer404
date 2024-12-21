@@ -9,7 +9,7 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-    <img src="img.jpg" alt="coding gif" width="300" align="right" />
+    <img src="img.png" alt="coding gif" width="300" align="right" />
     <div>
         <h2>👨‍💻 Who Am I?</h2>
         <p>👾 Developer: Writing clean, efficient, and impactful code.</p>
