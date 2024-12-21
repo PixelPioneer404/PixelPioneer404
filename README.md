@@ -6,16 +6,21 @@
 Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul driven by the magic of programming and the limitless possibilities of AI. This is where I document my journey of crafting digital experiences and solving real-world problems with code.
 
 
+
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-    <div>
     <img src="img.jpg" alt="coding gif" width="300" align="right" />
+    <div>
         <h2>👨‍💻 Who Am I?</h2>
         <p>👾 Developer: Writing clean, efficient, and impactful code.</p>
         <p>💻 Freelancer: Bringing ideas to life through custom solutions.</p>
         <p>👨‍🎓 Student: Lifelong learner with a thirst for knowledge in emerging technologies.</p>
         <p>💫 Passionate Innovator: Exploring the intersections of creativity and technology.</p>
+        <br>
     </div>
 </div>
+
+---
 
 
 ## 🧩 Hobbies & Interests
@@ -31,7 +36,7 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 🤖 *Robotics*: Exploring the synergy between mechanics and code.
 
 🎶 *Music Lover*: Immersing myself in melodies to fuel inspiration.
-
+<br>
 
 
 ---
@@ -43,7 +48,7 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 🛠 *Freelancing*: Helping businesses and individuals achieve their goals through tailored projects.
 
 🔍 *Exploration*: Continuously learning about the latest in AI, machine learning, and technology trends.
-
+<br>
 
 
 ---
@@ -57,7 +62,7 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 * *Tools*: Git, Figma, Blender
 
 * *Other*: Passionate about open source and collaborative development.
-
+<br>
 
 
 ---
@@ -69,11 +74,11 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 * Can spend hours perfecting the tiniest design details.
 
 * Always up for a game of chess or a deep tech discussion.
-
+<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_vir202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajbeer-saha-104a4b32b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rajvir_02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rajbeersaha404) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_vir202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajbeer-saha-104a4b32b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rajvir_02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rajbeersaha404)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PixelPioneer404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
