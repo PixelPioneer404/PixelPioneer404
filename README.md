@@ -1,5 +1,5 @@
 ![c80e6212329c162a75c59c33ef25741b](https://github.com/user-attachments/assets/0cbf100d-bfb5-49f7-93c2-94fe9a677c5c)
-[![](https://visitcount.itsvg.in/api?id=PixelPioneer404&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PixelPioneer404&label=Visitors&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # 🌟 Welcome to My GitHub Profile! 🌟
 
