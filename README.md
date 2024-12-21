@@ -88,6 +88,11 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PixelPioneer404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center>
+    
+ ![snake gif](https://github.com/PixelPioneer404/PixelPioneer404/blob/output/github-snake-dark.svg)   
+</div>
+
 ---
 
   ## 💰 You can help me by Donating
