@@ -82,8 +82,7 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PixelPioneer404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PixelPioneer404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPioneer404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=PixelPioneer404&theme=dark)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PixelPioneer404&limit=5&theme=dark&combine_all_yearly_contributions=true)
