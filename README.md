@@ -95,6 +95,4 @@ Hey there! 👋 I'm Rajbeer Saha, a developer, student, and an ever-curious soul
 ---
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RajbeerSaha) 
-
-  [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=PixelPioneer404&theme=dark)](https://git.io/streak-stats)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RajbeerSaha)
